@@ -18,3 +18,8 @@ build/
 # Temporary files
 *.tmp
 *.swp
+
+# Explicitly include src and public
+!src/
+!public/
+
