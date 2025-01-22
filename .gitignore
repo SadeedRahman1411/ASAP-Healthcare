@@ -19,7 +19,5 @@ build/
 *.tmp
 *.swp
 
-# Explicitly include src and public
-!src/
-!public/
+
 
